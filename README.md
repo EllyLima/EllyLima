@@ -17,5 +17,5 @@ Sou estudante de Sistemas de Informação (7º período) em Manaus, AM. Estou em
 
 📫 **Como me encontrar:**
 
-* **LinkedIn:** [Coloque o link do seu LinkedIn aqui]
+* **LinkedIn:** https://www.linkedin.com/in/elly-lima-80373b257/
 * **E-mail:** ellysilvalima360@gmail.com
