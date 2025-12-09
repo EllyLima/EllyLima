@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">Olá, sou a Elly Lima! <img src="https://media.giphy.com/media/hvRJCLFzcuMiCvBHnG/giphy.gif" width="35px"></h1>
-<h3 align="center">Analista de Sistemas em Formação | Focada em Front-end & IoT</h3>
+<h3 align="center">Analista de Sistemas em Formação | Focado em Front-end & IoT</h3>
 
 <div align="center">
 
   🔭 Estou trabalhando no meu **Portfólio em React** e projetos de **Arduino**.<br>
   🌱 Aprendendo atualmente sobre **UX/UI Design** e **APIs**.<br>
-  📫 Contato: **ellysilvalima360@gmail.com**
+  📫 Contato: **elly.devstudy@gmail.com**
 
 </div>
 
